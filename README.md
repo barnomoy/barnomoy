@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-Hi, I'm Barnomoy Biswas 👋
+Hi, I'm Barnomoy Biswas 
 
 CSE Student at Daffodil International University
 
