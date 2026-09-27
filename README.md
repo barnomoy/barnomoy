@@ -11,7 +11,7 @@ Data Structures & Algorithms,
 Competitive Programming
 
 Tools & Technologies: 
-C++, Git, GitHub, HTML, CSS, JavaScript, React Js 
+C++, Git, GitHub, HTML, CSS, JavaScript, React Js. 
 
 Thanks for visiting my profile!
 <!--
