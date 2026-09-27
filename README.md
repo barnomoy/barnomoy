@@ -1,14 +1,14 @@
 <!--## Hi there 👋-->
 Hi, I'm Barnomoy Biswas 
 
-CSE Student at Daffodil International University
+CSE Student at Daffodil International University.
 
 I'm a first-year Computer Science & Engineering student interested in problem solving and building useful products.
 
 Currently Learning & Practicing: 
 C++, 
 Data Structures & Algorithms, 
-Competitive Programming
+Competitive Programming.
 
 Tools & Technologies: 
 C++, Git, GitHub, HTML, CSS, JavaScript, React Js. 
